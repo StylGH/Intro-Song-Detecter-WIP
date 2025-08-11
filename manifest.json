@@ -1,7 +1,7 @@
 [
   {
     "guid": "b7e8dce1-44df-4b37-91a3-15fcf9f3b76a",
-    "name": "Custom Logo",
+    "name": "Intro Song Detecter",
     "description": "Replace the default Jellyfin logo with your own.",
     "overview": "Allows uploading a custom logo to replace Jellyfin branding.",
     "owner": "styl",
